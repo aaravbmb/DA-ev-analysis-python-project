@@ -11,7 +11,8 @@ As EVs are gaining traction due to their low running costs and no emissions prom
 
 
 ## Skills:
-
+- **Pandas**: A Python library used to manipulate data. It is used to read CSV files into a dataframe which is modified to remove outliers and make data clean.
+- **MatPlotLib**: A data visualization library used to create bar graphs, pie charts and other types of visualizations to show trends, insights and correlation between values.
 
 ## Results & Business Recommendation:
 
